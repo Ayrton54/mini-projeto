@@ -1,3 +1,4 @@
+@import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 body {
     background-color: rgba(22, 32, 124, 0);
